@@ -1,0 +1,2 @@
+# otm9605a_ykl_LP047HPTP042-1-A_HSD_dsi_2_qhd
+LCM driver otm9605a_ykl_LP047HPTP041A_HSD_dsi_2_qhd and otm9605a_ykl_LP047HPTP042A_HSD_dsi_2_qhd
